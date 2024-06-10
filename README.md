@@ -5,11 +5,11 @@ The tutorial I have followed is from "Apna College". Below is the link of the co
 
 In the video file are being run in browsers conole but I have used node js to run codes in the terminal. You can choose any of them. I recommende you to choose browser.
 
-  1.) To run file using node js, simply go to 
+  -1.) To run file using node js, simply go to 
     [https://nodejs.org/en/download/package-manager/current]
-  2.) Download it and install it like any other normal application
-  3.) Cross check installation by opening cmd and type --version. It must show the version of node js installed
-  4.) To run file using node js use node and then file name. Eg: [node index.js]
+  -2.) Download it and install it like any other normal application
+  -3.) Cross check installation by opening cmd and type --version. It must show the version of node js installed
+  -4.) To run file using node js use node and then file name. Eg: [node index.js]
 
 ---
 [![Watch the video](https://img.youtube.com/vi/VlPiVmYuoqw/0.jpg)](https://youtu.be/VlPiVmYuoqw?si=jhERQabVmm209H58)
