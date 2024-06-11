@@ -12,7 +12,10 @@ In the video file are being run in browsers conole but I have used node js to ru
   4.) To run file using node js use node and then file name. Eg: [node index.js]  
 
 ---
-[![Watch the video](https://img.youtube.com/vi/VlPiVmYuoqw/0.jpg)](https://youtu.be/VlPiVmYuoqw?si=jhERQabVmm209H58)
-
+<div align="center">
+  <a href="https://youtu.be/VlPiVmYuoqw?si=pWi1Hm3N4paU6Iym">
+    <img src="https://img.youtube.com/vi/VlPiVmYuoqw/maxresdefault.jpg" alt="YouTube Video" style="width:100%; max-width:800px;">
+  </a>
+</div>
 
 
